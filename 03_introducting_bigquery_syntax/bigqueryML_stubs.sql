@@ -44,3 +44,9 @@ FROM ML.FORECAST(MODEL `<project_name>.<dataset_name>.<ml_model_name>`,
 SELECT *
 FROM ML.RECOMMEND(MODEL `<project_name>.<dataset_name>.<ml_model_name>`,
           (`<project_name>.<dataset_name>.<user_item_table>`));
+		  
+		  
+############ BigQuery ML Deletion of a ML model  ############
+DROP MODEL `<project_name>.<dataset_name>.<ml_model_name>`;
+
+DROP MODEL IF EXISTS `<project_name>.<dataset_name>.<ml_model_name>`;
