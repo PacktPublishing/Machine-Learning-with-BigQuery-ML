@@ -1,3 +1,4 @@
+gcloud auth login
 PROJECT=$(gcloud config get-value project)
 BUCKET=${PROJECT}-us-bigqueryml-export-tf
 gsutil mb -l us gs://${BUCKET}
