@@ -60,6 +60,9 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800560307_ColorImages.pdf).
 
+## Code in Action
+Click on the following link to see the Code in Action: https://bit.ly/3f11XbU
+
 
 ### Related products <Other books you may enjoy>
 * Automated Machine Learning [[Packt]](https://www.packtpub.com/product/automated-machine-learning/9781800567689) [[Amazon]](https://www.amazon.com/dp/1800567685)
