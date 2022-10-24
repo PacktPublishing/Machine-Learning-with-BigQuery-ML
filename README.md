@@ -74,3 +74,7 @@ Click on the following link to see the Code in Action:
 ## Get to Know the Author
 **Alessandro Marrandino** is a Google Cloud customer engineer. He helps various enterprises on the digital transformation journey to adopt cloud technologies. He is actively focused on and experienced in data management and smart analytics solutions. He has spent his entire career on data and artificial intelligence projects for global companies in different industries.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800560307">https://packt.link/free-ebook/9781800560307 </a> </p>
