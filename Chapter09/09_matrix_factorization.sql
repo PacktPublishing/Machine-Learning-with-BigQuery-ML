@@ -36,9 +36,9 @@ SELECT fullVisitorID, purchased_product_id, quantity FROM `09_recommendation_eng
 SELECT
   *
 FROM
-  ML.EVALUATE(MODEL `09_recommendation_engine.recommender`,
+  ML.EVALUATE(MODEL `09_recommendation_engine.purchase_recommender`,
     (
-    SELECT * FROM `09_recommendation_engine.product_visits`));
+    SELECT * FROM `09_recommendation_engine.product_purchases`));
 	
 CREATE OR REPLACE TABLE `09_recommendation_engine.product_recommendations` AS
 	SELECT
